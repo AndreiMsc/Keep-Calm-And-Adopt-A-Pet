@@ -13,6 +13,8 @@ is adopted) and update the information of a animal. Each Animal has a breed, a n
 The photograph is memorised as a link towards an online resource (the photograph on the presentation
 site of the centre). The administrators will also have the option to see all the animals in the shelter.
 
+### Version 2.0
+
 ### User mode:
 ### (all of the above)
 
