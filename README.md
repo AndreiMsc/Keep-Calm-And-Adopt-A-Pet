@@ -14,6 +14,8 @@ The photograph is memorised as a link towards an online resource (the photograph
 site of the centre). The administrators will also have the option to see all the animals in the shelter.
 
 ### User mode:
+### (all of the above)
+
   An user can access the application and choose one or more animals to adopt. The application allows the 
 user to:
   a. See the animals in the database, one by one. When the user chooses this option, the data of the
